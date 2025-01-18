@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh
 - 👀 I’m interested in Fullstack Web Development and Blockchain
 - 🌱 I’m currently learning Backened
-- 💞️ I’m looking to collaborate on Projects 
+- 💞️ I’m looking to collaborate on Projects related to webdev
 - 📫 How to reach me
 -  my email:harshkumarpalas@gmail.com
 -  my instagram handle username:harshpalas
